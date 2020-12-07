@@ -1,0 +1,70 @@
+body	{ background-image:url("/web/20180823200617im_/http://neofocal.com/pat0.png") 
+	; color:black
+	; font-family:Arial,Helvetica,sans-serif
+	}
+div	{ margin:1.5em
+	}
+p.img	{ font-weight:bold
+	; font-size:small
+	}
+p.cent	{ text-align:center
+	; margin-left:auto ; margin-right:auto ; 
+	; font-size:small
+	}
+p.inlin { display:inline-block
+	; margin-left:1.5em
+	; text-align:left
+	}
+.root	{ width:55% 
+	; margin-left:auto;margin-right:auto
+	}
+.branch	{ width:90%
+	; margin-right:auto
+	; text-align:center
+	}
+.map	{ height:66%
+	}
+a.table { color:white
+	}
+table   { background-color:CornSilk
+        ; border: 2px ; border-spacing:3px ; border-collapse:collapse
+	; margin-left:auto;margin-right:auto
+        }
+th	{ background-image:url("/web/20180823200617im_/http://neofocal.com/pat0.png") 
+        ; border:2px 
+        ; text-align:center
+        }
+tr      { padding:5px
+	; color:white
+        ; background-color:steelblue 
+        ; border:1px 
+        }
+td      { width:10%
+	; padding:3px
+        ; color:white
+        ; text-align:center
+	}
+td:hover{ background-color:lime
+	}
+
+/*
+     FILE ARCHIVED ON 20:06:17 Aug 23, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:49:38 Dec 04, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 370.036 (3)
+  load_resource: 313.205 (2)
+  exclusion.robots.policy: 0.202
+  exclusion.robots: 0.212
+  PetaboxLoader3.datanode: 269.37 (5)
+  captures_list: 392.198
+  RedisCDXSource: 3.038
+  PetaboxLoader3.resolve: 88.368 (2)
+  esindex: 0.01
+  CDXLines.iter: 15.618 (3)
+*/
